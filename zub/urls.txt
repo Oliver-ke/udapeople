@@ -2,7 +2,7 @@
 https://github.com/Oliver-ke/udapeople
 
 [URL02]
-https://udapeople-dc456ed.s3.amazonaws.com/index.html
+https://udapeople-3fd145b.s3.amazonaws.com/index.html
 
 [URL03]
 http://d39xdqi9peflyz.cloudfront.net
